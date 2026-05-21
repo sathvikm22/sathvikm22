@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I'm an AIML undergraduate and aspiring software engineer focused on building strong fundamentals in DSA, Low Level Design, System Design, APIs, backend engineering, and cloud deployment.<br><br>I enjoy working on scalable applications using technologies like AWS, Redis caching, PostgreSQL, Supabase, Render, Vercel, Springboot, JWT authentication, OAuth, and modern full-stack development tools.<br><br>Currently, I'm improving my problem-solving skills through Data Structures & Algorithms and strengthening my design skills through Low Level Design and System Design.<br><br>Fun fact: I love working out at the gym 💪
 
 
