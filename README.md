@@ -9,9 +9,7 @@ I'm an AIML undergraduate and aspiring software engineer focused on building str
 ### Languages
 ![Java](https://img.shields.io/badge/Java-1E293B.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-1E293B.svg?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-1E293B.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-1E293B.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-1E293B.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Backend & APIs
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-1E293B.svg?style=for-the-badge&logo=springboot&logoColor=white)
@@ -25,12 +23,6 @@ I'm an AIML undergraduate and aspiring software engineer focused on building str
 ![MySQL](https://img.shields.io/badge/MySQL-334155.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-334155.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-334155.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-1E293B.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-1E293B.svg?style=for-the-badge&logo=react&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-1E293B.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1E293B.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### AI / ML
 ![PyTorch](https://img.shields.io/badge/PyTorch-334155.svg?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -46,7 +38,6 @@ I'm an AIML undergraduate and aspiring software engineer focused on building str
 ![AWS](https://img.shields.io/badge/AWS-1E293B.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-1E293B.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-334155.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-334155.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-334155.svg?style=for-the-badge&logo=render&logoColor=white)
 
